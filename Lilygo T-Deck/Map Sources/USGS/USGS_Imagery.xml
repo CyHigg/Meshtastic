@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customWmsMapSource>
+    <name>USGS Imagery Only</name>
+    <minZoom>0</minZoom>
+    <maxZoom>16</maxZoom>
+    <tileType>JPG</tileType>
+    <version>1.1.1</version>
+    <layers>0</layers>
+    <url>https://basemap.nationalmap.gov/arcgis/services/USGSImageryOnly/MapServer/WMSServer?</url>
+    <coordinatesystem>EPSG:4326</coordinatesystem>
+    <aditionalparameters><![CDATA[&EXCEPTIONS=BLANK&Styles=]]></aditionalparameters>
+    <backgroundColor>#000000</backgroundColor>
+</customWmsMapSource>

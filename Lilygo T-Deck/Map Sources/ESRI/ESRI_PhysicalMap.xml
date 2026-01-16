@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>ESRI Physical Map</name>
+    <minZoom>0</minZoom>
+    <maxZoom>8</maxZoom>
+    <tileType>png</tileType>
+    <url>https://services.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{$z}/{$y}/{$x}</url>
+    <backgroundColor>#000000</backgroundColor>
+</customMapSource>
