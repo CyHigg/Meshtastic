@@ -2,8 +2,8 @@
 <customMapSource>
     <name>ESRI USA Topo Maps</name>
     <minZoom>0</minZoom>
-    <maxZoom>20</maxZoom>
-    <tileType>png</tileType>
+    <maxZoom>15</maxZoom>
+    <tileType>jpg</tileType>
     <tileUpdate>None</tileUpdate>
     <url>https://server.arcgisonline.com/ArcGIS/rest/services/USA_Topo_Maps/MapServer/tile/{$z}/{$y}/{$x}</url>
     <backgroundColor>#000000</backgroundColor>

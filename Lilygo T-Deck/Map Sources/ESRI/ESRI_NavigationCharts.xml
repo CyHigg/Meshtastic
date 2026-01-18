@@ -2,8 +2,8 @@
 <customMapSource>
     <name>ESRI Navigation</name>
     <minZoom>0</minZoom>
-    <maxZoom>20</maxZoom>
-    <tileType>png</tileType>
+    <maxZoom>10</maxZoom>
+    <tileType>jpg</tileType>
     <tileUpdate>None</tileUpdate>
     <url>https://server.arcgisonline.com/ArcGIS/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{$z}/{$y}/{$x}</url>
     <backgroundColor>#000000</backgroundColor>

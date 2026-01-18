@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customMapSource>
-    <name>ESRI Street</name>
+    <name>ESRI World Street</name>
     <minZoom>0</minZoom>
-    <maxZoom>20</maxZoom>
-    <tileType>png</tileType>
+    <maxZoom>19</maxZoom>
+    <tileType>jpg</tileType>
     <url>https://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{$z}/{$y}/{$x}</url>
     <backgroundColor>#000000</backgroundColor>
 </customMapSource>

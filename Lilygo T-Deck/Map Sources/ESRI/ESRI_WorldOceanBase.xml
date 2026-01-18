@@ -2,8 +2,8 @@
 <customMapSource>
     <name>ESRI World Ocean Base</name>
     <minZoom>0</minZoom>
-    <maxZoom>20</maxZoom>
-    <tileType>png</tileType>
+    <maxZoom>16</maxZoom>
+    <tileType>jpg</tileType>
     <url>https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{$z}/{$y}/{$x}</url>
     <backgroundColor>#000000</backgroundColor>
 </customMapSource>
